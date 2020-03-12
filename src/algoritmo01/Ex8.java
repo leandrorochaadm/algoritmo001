@@ -39,6 +39,9 @@ public class Ex8 {
 		System.out.println("A*C: "+(a*c));
 		System.out.println("A*D: "+(a*d));
 		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);	
 	
 	}
 

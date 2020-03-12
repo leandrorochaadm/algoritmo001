@@ -24,6 +24,10 @@ public class Ex6 {
 		b=temp;
 		temp= null;
 		System.out.println("Após a inversão dos numero ficou assim : A="+a+" e B="+ b);
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

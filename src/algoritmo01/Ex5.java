@@ -29,6 +29,10 @@ public class Ex5 {
 		System.out.println("velocidade média: "+v+" Km/h");
 		System.out.println("tempo gasto na viagem: "+t+" hora(s)");
 		System.out.println("Consumo de "+consumo+" litros por km");
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

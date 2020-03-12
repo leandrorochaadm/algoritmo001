@@ -21,6 +21,10 @@ public class Ex1 {
 
 		c= a+b;
 		System.out.println("Resultado da soma :"+c);
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

@@ -15,6 +15,10 @@ public class Ex7 {
 		
 		System.out.println("Numero elevado ao quadrado: "+q);
 		System.out.println("Numero elevado ao cubo: "+c);
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

@@ -28,6 +28,10 @@ public class Ex3 {
 		System.out.println("Salário Bruto: "+sb);
 		System.out.println("Desconto: "+td);
 		System.out.println("Salário Liquido: "+ sl);
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

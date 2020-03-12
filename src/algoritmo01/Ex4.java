@@ -14,6 +14,10 @@ public class Ex4 {
 
 		f =(Integer) ((9*c+160)/5);
 		System.out.println("Após a conversão a temperatura ficou em graus Fahrenheit: "+f+"F");
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

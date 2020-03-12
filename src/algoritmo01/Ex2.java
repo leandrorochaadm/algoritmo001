@@ -21,6 +21,10 @@ public class Ex2 {
 
 		c= a+b;
 		System.out.println("Após a inversão dos numero ficou assim :"+b+" e "+ a);
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 	}
 
 }

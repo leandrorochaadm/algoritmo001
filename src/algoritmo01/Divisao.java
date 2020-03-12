@@ -27,6 +27,10 @@ public class Divisao {
 
 		temp = a % b;
 		System.out.println("Resto da divisão: " + temp);
+		
+		System.out.println("------------------------------");
+		Principal principal = new Principal();
+		principal.main(null);
 
 	}
 
